@@ -1,0 +1,6 @@
+@testing_Project_for_git_practive_HostAddress = http://localhost:5229
+
+GET {{testing_Project_for_git_practive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
