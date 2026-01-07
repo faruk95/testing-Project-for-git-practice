@@ -14,5 +14,11 @@ namespace testing_Project_for_git_practive
        string myString = "Hello World";
        string main_branch = "This is main branch"; 
     }
-   
+    public class farukBranch
+    {
+       int farukNum = 20;
+       string farukString = "Hello from Faruk Branch";
+       string faruk_branch = "This is Faruk branch";
+    }
+
 }
