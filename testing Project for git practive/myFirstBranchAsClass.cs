@@ -20,5 +20,12 @@ namespace testing_Project_for_git_practive
        string farukString = "Hello from Faruk Branch";
        string faruk_branch = "This is Faruk branch";
     }
+    public class RiponBranch
+    {
+       int riponNum = 30;
+       string riponString = "Hello from Ripon Branch";
+       string ripon_branch = "This is Ripon branch";
+       string ripon_branchs = "gg";
+    }
 
 }
