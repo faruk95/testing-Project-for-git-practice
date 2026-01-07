@@ -8,13 +8,11 @@ using System.Linq;
 using System.Threading.Tasks;
 namespace testing_Project_for_git_practive
 {
-    public class myFirstBranchAsClass
+    public class mainBranch
     {
        int myNum = 10;
        string myString = "Hello World";
+       string main_branch = "This is main branch"; 
     }
-    public class mySecondClass
-    {
-        
-    }
+   
 }
